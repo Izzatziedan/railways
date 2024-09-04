@@ -1,5 +1,4 @@
 venv/
 .venv/
 .env
-core/settings.py
-core\settings.py
+db.sqlite3
